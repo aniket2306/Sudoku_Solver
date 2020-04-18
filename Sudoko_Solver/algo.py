@@ -79,7 +79,7 @@ def non_class_solve(cells):
 
     return False
 
-class Puzzle:
+class algo:
     def __init__(self, cells=None):
         if cells:
             self.cells = cells
